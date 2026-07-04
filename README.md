@@ -160,4 +160,6 @@ Este projeto proporcionou experiência prática em:
 
 # Autora
 
-Projeto desenvolvido como parte do meu portfólio na graduação em Ciência de Dados pela Fatec Rubens Lara.
+# Autora
+
+Projeto desenvolvido por Daniela Albany , estudante de Ciência de Dados na Fatec Rubens Lara, como parte do meu portfólio pessoal.
