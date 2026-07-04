@@ -2,7 +2,7 @@
 
 Projeto de Ciência de Dados desenvolvido para analisar e prever o volume de sacas de café exportadas pelo Porto de Santos utilizando séries temporais, Python e Power BI.
 
-![Dashboard](dashboard/screenshots/dashboard.png)
+![Dashboard](PowerBI/dashboard_café.png)
 
 ---
 
