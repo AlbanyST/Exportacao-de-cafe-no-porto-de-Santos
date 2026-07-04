@@ -157,9 +157,6 @@ Este projeto proporcionou experiência prática em:
 - incluir métricas para avaliação do modelo.
 
 ---
-
-# Autora
-
 # Autora
 
 Projeto desenvolvido por Daniela Albany , estudante de Ciência de Dados na Fatec Rubens Lara, como parte do meu portfólio pessoal.
