@@ -128,7 +128,7 @@ O notebook de limpeza gera o arquivo `cafe_limpo.csv`. O arquivo `cafe_limpo_cor
 
 - Python
 - Pandas
-- NumPy
+- Matplotlib
 - Statsmodels
 - Jupyter Notebook
 - Power BI
