@@ -59,6 +59,7 @@ Filtros utilizados:
 │   ├── dashboard.pbix
 │   └── screenshots
 │
+├──  documentacao_tecnica.pdf
 ├──  README.md
 └── 
 ```
